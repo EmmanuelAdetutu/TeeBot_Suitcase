@@ -4,7 +4,7 @@ The folding Suitcase 3D printer.
 Super thanks to all our 42 Backers from Kickstarter for making this project possible. They all made it posible to share with you.
 
 
-<b>***Teebot Specifications... Printed objects gallery</b> [Availaible here](www.3dstuffs.nl/teebot)
+<b>***Teebot Specifications... Printed objects gallery</b> [Availaible here](http://3dstuffs.nl/teebot/)
 
 
 <b>***Guide Photos of assembled sample</b> [Availaible here](https://www.flickr.com/photos/31259217@N06/albums/72157655761866343)
