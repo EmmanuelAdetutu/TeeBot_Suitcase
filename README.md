@@ -11,7 +11,7 @@ Super thanks to all 42 Backers from Kickstarter for making this project possible
 
 <b>***folow me on instagram...  </b>[#teebot3d](https://www.instagram.com/teebot3d/)
 
-...Still work in progress...
+...always work in progress...
 
 Comments, suggestion, contributions, errors,  info....what have you?
 send me an email <b>info@3dstuffs.nl</b>
