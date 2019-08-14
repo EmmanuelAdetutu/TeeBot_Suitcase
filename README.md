@@ -1,4 +1,4 @@
-# TeeBot_Suitcase OPENSOURCE!!
+# TeeBot_Suitcase!!
 The folding Suitcase 3D printer.
 
 Super thanks to all 42 Backers from Kickstarter for making this project possible. They all made it posible to share this project with everyone!!.
