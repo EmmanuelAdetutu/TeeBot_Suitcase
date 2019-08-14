@@ -9,7 +9,7 @@ Super thanks to all 42 Backers from Kickstarter for making this project possible
 
 <b>***Youtube Video and print videos...</b>[Availaible here](https://www.youtube.com/watch?v=e_J-Re-Gbfc)
 
-<b>***folow me on instagram</b>[TeeBot here](https://www.instagram.com/teebot3d/)
+<b>***folow me on instagram...  </b>[#teebot3d](https://www.instagram.com/teebot3d/)
 
 ...Still work in progress...
 
