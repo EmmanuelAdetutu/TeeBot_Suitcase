@@ -13,5 +13,5 @@ Super thanks to all 42 Backers from Kickstarter for making this project possible
 
 ...Still work in progress...
 
-Comments, suggestion, contributions, errors collaborations,  info....what have you?
+Comments, suggestion, contributions, errors,  info....what have you?
 send me an email <b>info@3dstuffs.nl</b>
